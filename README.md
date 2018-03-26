@@ -1,7 +1,7 @@
 # YesilcamGAN: Automatic Face Translation to Yesilcam Artists
 
 * Examples will be proliferated very soon. 
-* You can download Yesilcam artist dataset very soon.
+* You can download Yesilcam Artists dataset very soon.
 * Enjoy!...
 
 Yesilcam Samples
