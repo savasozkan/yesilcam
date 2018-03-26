@@ -5,12 +5,15 @@
 * Enjoy!...
 
 Yesilcam Samples
+
 <img src="photos/yesilcam_samples.jpg">
 
 CelebA Samples
+
 <img src="photos/celeba_samples.jpg">
 
 METUEEE Samples
+
 <img src="photos/metueee_samples.jpg">
 
 ## References
